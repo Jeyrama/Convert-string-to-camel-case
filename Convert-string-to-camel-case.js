@@ -19,3 +19,5 @@ function toCamelCase(str){
         return match.charAt(1).toUpperCase();
    });
 }
+
+// or
